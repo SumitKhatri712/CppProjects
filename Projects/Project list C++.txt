@@ -1,0 +1,40 @@
+Calculator
+Calculator-GUI
+Creating files
+Sorting algorithms
+Data structures
+GUI
+	File Renamer
+	File Sorter
+	Notepad
+	
+Games
+	Pong Game
+	Tic Tac Toe
+	Snake game
+	Hangman game
+	Rock Paper Scissor
+
+Web scraping
+Pattern Printing
+Password Crackers
+AutoGuiLike - win32 api(Automation)
+
+
+Libraries to learn(Counterparts)
+Sfml
+WxWidget
+Dear ImGUi
+Nano
+Godot
+QT
+Time
+os
+Math
+Pillow
+Regex
+Random
+Random
+Fonts
+pygame
+selenium

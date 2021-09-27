@@ -18,7 +18,7 @@ string checkDayOfWeek(int dayNum)
         dayName = "Tuesday";
         break;
     case 3:
-        dayName = "Wednasday";
+        dayName = "Wednesday";
         break;
     case 4:
         dayName = "Thursday";
