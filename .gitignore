@@ -1,8 +1,11 @@
 # Prerequisites
 *.d
 *.code-workspace
+.jsonc
+.py
 
 .vscode/
+QT Projects/
 
 # Compiled Object files
 *.slo
